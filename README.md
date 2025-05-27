@@ -40,8 +40,7 @@ Alle bestanden zijn handmatig opgesteld en gevalideerd.
 
 | Doel                     | URI                                                                 |
 |--------------------------|----------------------------------------------------------------------|
-| Datasetcatalogus         | [`https://linkeddata.cultureelerfgoed.nl/catalog`](https://linkeddata.cultureelerfgoed.nl/catalog) |
-| Organisatie              | [`https://linkeddata.cultureelerfgoed.nl/id/organisatie/rce`](https://linkeddata.cultureelerfgoed.nl/id/organisatie/rce) |
+| Datasetcatalogus         | [`https://linkeddata.cultureelerfgoed.nl/rce/datacatalog`](https://linkeddata.cultureelerfgoed.nl/rce/datacatalog) |
 | ISIL-code                | `NL-AmfRCE`                                                          |
 
 ---
