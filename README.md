@@ -47,7 +47,7 @@ Alle bestanden zijn handmatig opgesteld en gevalideerd.
 
 ## 🛠️ Harvesting en hergebruik
 
-De JSON-LD-bestanden kunnen automatisch worden geharvest door o.a. het datasetregister van het NDE.
+De JSON-LD-bestanden kunnen automatisch worden geharvest door o.a. het Datasetregister van het NDE.
 
 Voorbeeldinstructie voor registreren van deze catalogus als bron:
 
